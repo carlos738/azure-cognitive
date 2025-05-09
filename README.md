@@ -66,5 +66,5 @@ Esse comando retorna todos os livros que mencionam "Orwell" no título ou descri
 
 Para refinar os resultados, podemos: ✅ Adicionar sinônimos, para considerar termos semelhantes (Exemplo: “romance” ↔ “ficção”). ✅ Relevância personalizada, ordenando por campos importantes como popularidade. ✅ Busca semântica, que interpreta contexto e intenção das pesquisas.
 
-
+# obs : usei algumas imagens da internet para ilustrar alguns serviços do azure cognitive e da azure.
 # material do site oficial da azure.
